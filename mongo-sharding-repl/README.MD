@@ -1,11 +1,5 @@
-Переходим в папку sharding-repl-cache
-
-## Диаграммы
-[Diagram/task5.drawio](Diagram/task5.drawio)
-
 ## Запустить контейнеры
 ```bash
-cd sharding-repl-cache
 docker-compose up -d
 ```
 
